@@ -1,0 +1,760 @@
+Simulation 6 escaped
+Body 0: pos(-5,-1,1) vel(3.6,2.7,-4.9) mass(184)
+Body 1: pos(-5,-4,1) vel(2,2.3,-3.4) mass(78)
+Body 2: pos(3,-2,2) vel(5,-13.2,0.5) mass(100)
+
+Simulation 8 escaped
+Body 0: pos(1,1,0) vel(-7.6,13.9,-1.7) mass(73)
+Body 1: pos(2,3,2) vel(6.1,3.6,-6) mass(131)
+Body 2: pos(3,-4,-1) vel(10.9,13.1,-7) mass(68)
+
+Simulation 3 escaped
+Body 0: pos(2,-1,-5) vel(7,7.7,-11.4) mass(109)
+Body 1: pos(2,2,3) vel(-13.5,-9.6,-0.3) mass(109)
+Body 2: pos(-3,0,3) vel(-6.3,6.2,-13.9) mass(195)
+
+Simulation 3 escaped
+Body 0: pos(-3,-2,-2) vel(-2.6,8.3,-2.1) mass(163)
+Body 1: pos(-5,0,4) vel(3.5,-0.9,8.8) mass(60)
+Body 2: pos(3,-3,-2) vel(4.5,1,8.9) mass(96)
+
+Simulation 6 escaped
+Body 0: pos(-4,-4,-1) vel(-10.8,6.5,-14.8) mass(127)
+Body 1: pos(2,-2,0) vel(11,-14.9,-3.9) mass(52)
+Body 2: pos(2,4,0) vel(4.4,-0.7,9.9) mass(5)
+
+Simulation 2 escaped
+Body 0: pos(4,-1,0) vel(11.8,7.1,2.3) mass(122)
+Body 1: pos(-3,-4,-2) vel(-11.7,1,6.9) mass(45)
+Body 2: pos(-2,3,-1) vel(-2.4,4.5,12.3) mass(167)
+
+Simulation 0 escaped
+Body 0: pos(4,2,-2) vel(8.9,-8.3,10.6) mass(36)
+Body 1: pos(-4,1,0) vel(3,-2.1,13.4) mass(112)
+Body 2: pos(2,0,0) vel(-4.9,-6,-14.3) mass(5)
+
+Simulation 6 escaped
+Body 0: pos(-1,0,0) vel(13.9,3.5,2.1) mass(196)
+Body 1: pos(1,2,4) vel(6.2,9.7,12.5) mass(122)
+Body 2: pos(-3,2,2) vel(-7.7,9,-11.9) mass(140)
+
+Simulation 3 escaped
+Body 0: pos(-1,-2,3) vel(3.8,-1.2,14.6) mass(193)
+Body 1: pos(-3,-5,1) vel(-1.8,-0.1,14.9) mass(71)
+Body 2: pos(-2,4,2) vel(6.5,-9.7,-14.3) mass(147)
+
+Simulation 2 escaped
+Body 0: pos(-2,0,2) vel(-3.4,5,-6) mass(196)
+Body 1: pos(2,1,0) vel(10.1,11.7,-10.4) mass(19)
+Body 2: pos(-1,1,-1) vel(3.8,-3.2,11.3) mass(95)
+
+Simulation 8 escaped
+Body 0: pos(-2,-5,3) vel(10.1,10.8,8.6) mass(19)
+Body 1: pos(-4,-1,-4) vel(-12.4,-7.2,-8.5) mass(79)
+Body 2: pos(2,4,1) vel(-5.4,10.7,-9.8) mass(100)
+
+Simulation 0 escaped
+Body 0: pos(1,-4,4) vel(-1.6,10.3,-14.4) mass(32)
+Body 1: pos(0,4,-5) vel(-8.2,12.7,0.1) mass(157)
+Body 2: pos(-2,-2,0) vel(-2.1,-0.7,6.9) mass(150)
+
+Simulation 0 escaped
+Body 0: pos(-1,-4,1) vel(13.7,6.3,6.5) mass(163)
+Body 1: pos(0,2,2) vel(8.7,0.5,-7.8) mass(116)
+Body 2: pos(2,2,-3) vel(11.4,-10.1,-12.2) mass(180)
+
+Simulation 8 escaped
+Body 0: pos(-2,-3,1) vel(14.5,-3.1,-12.8) mass(105)
+Body 1: pos(0,-5,0) vel(14.9,-1.8,6.8) mass(42)
+Body 2: pos(-2,-2,-5) vel(0.4,-8.5,-6.8) mass(185)
+
+Simulation 8 escaped
+Body 0: pos(3,2,-1) vel(1,-0.3,3.4) mass(176)
+Body 1: pos(-3,1,0) vel(8.2,0.9,5.8) mass(200)
+Body 2: pos(-1,-5,-3) vel(-6.1,-11.9,-10) mass(70)
+
+Simulation 1 escaped
+Body 0: pos(-5,3,-1) vel(-9.7,-0.6,-10.2) mass(178)
+Body 1: pos(-4,-3,-2) vel(7,7.7,-14.8) mass(182)
+Body 2: pos(-5,0,3) vel(-2.6,-0.9,11.3) mass(10)
+
+Simulation 3 escaped
+Body 0: pos(2,3,-2) vel(8.1,-13.8,1.4) mass(191)
+Body 1: pos(-1,-2,1) vel(-13.1,7.9,11) mass(83)
+Body 2: pos(-2,-1,-4) vel(-13.8,14.7,4.1) mass(7)
+
+Simulation 1 escaped
+Body 0: pos(-2,-4,1) vel(-3.9,-4.5,2.2) mass(187)
+Body 1: pos(-4,0,-1) vel(8.3,-14.4,-5.6) mass(160)
+Body 2: pos(4,-1,3) vel(11.8,-0.9,-0.8) mass(79)
+
+Simulation 3 escaped
+Body 0: pos(2,-5,3) vel(9.3,10.6,-7.8) mass(61)
+Body 1: pos(4,0,-5) vel(-13.3,5.5,7.4) mass(151)
+Body 2: pos(2,-5,4) vel(3.1,-6.6,3.4) mass(56)
+
+Simulation 7 escaped
+Body 0: pos(1,-4,-5) vel(1.8,-14.7,14.9) mass(28)
+Body 1: pos(-2,-4,-1) vel(3.3,-11.2,-13.2) mass(180)
+Body 2: pos(-1,3,1) vel(-5.4,9.4,0.8) mass(28)
+
+Simulation 7 escaped
+Body 0: pos(2,-2,2) vel(14,-7.6,12) mass(115)
+Body 1: pos(4,2,0) vel(-0.3,7.3,7.9) mass(72)
+Body 2: pos(0,0,-2) vel(8.2,6.4,-0.3) mass(56)
+
+Simulation 4 escaped
+Body 0: pos(2,0,-3) vel(-12.4,11.2,6.8) mass(196)
+Body 1: pos(-4,4,-4) vel(9,10.5,0.3) mass(19)
+Body 2: pos(-1,-3,-5) vel(-14.6,2.6,-11.6) mass(2)
+
+Simulation 3 escaped
+Body 0: pos(0,0,3) vel(7.9,-0.7,-2.4) mass(80)
+Body 1: pos(0,-1,1) vel(-10.8,0.8,4.6) mass(168)
+Body 2: pos(-2,2,-4) vel(10.3,14.7,-0.6) mass(86)
+
+Simulation 6 escaped
+Body 0: pos(4,-4,0) vel(-5.6,14.6,-12.4) mass(190)
+Body 1: pos(-5,0,-1) vel(2.9,-4.3,5.7) mass(17)
+Body 2: pos(-2,-3,4) vel(-5.5,-3,-10.9) mass(155)
+
+Simulation 1 escaped
+Body 0: pos(-3,3,-1) vel(3.8,10.1,14) mass(104)
+Body 1: pos(-5,-1,2) vel(-13.6,9.9,4.9) mass(35)
+Body 2: pos(2,-5,4) vel(-11.2,-12.9,-8.3) mass(145)
+
+Simulation 3 escaped
+Body 0: pos(3,1,-4) vel(7.6,10.7,-2.9) mass(101)
+Body 1: pos(-1,1,-4) vel(-7.9,-11.9,-6.1) mass(167)
+Body 2: pos(-3,-4,-4) vel(-4.1,-2,14) mass(57)
+
+Simulation 2 escaped
+Body 0: pos(1,-3,3) vel(-3.1,9.4,-14.5) mass(143)
+Body 1: pos(-4,2,2) vel(14,-1.2,-0.3) mass(154)
+Body 2: pos(-3,0,-5) vel(-6.6,-2,-12.1) mass(1)
+
+Simulation 9 escaped
+Body 0: pos(-1,-1,-2) vel(0.9,-11.9,0.9) mass(105)
+Body 1: pos(-3,-3,-1) vel(-6.1,-4.3,-11.6) mass(21)
+Body 2: pos(0,4,-1) vel(8.5,2.5,-12.9) mass(180)
+
+Simulation 6 escaped
+Body 0: pos(4,1,-4) vel(-4.9,-5.5,-3.1) mass(175)
+Body 1: pos(0,-1,-1) vel(-4.5,13.3,-14.4) mass(27)
+Body 2: pos(1,-5,3) vel(11.7,-8,-11.1) mass(99)
+
+Simulation 3 escaped
+Body 0: pos(-1,-1,1) vel(0,14.1,-0.9) mass(46)
+Body 1: pos(3,-3,2) vel(-0.7,-7.3,8.6) mass(7)
+Body 2: pos(-2,-3,2) vel(0.1,11.8,-12.8) mass(106)
+
+Simulation 3 escaped
+Body 0: pos(-4,-5,-3) vel(-3.1,10.4,12) mass(93)
+Body 1: pos(-2,2,2) vel(-9,9.7,8.2) mass(61)
+Body 2: pos(-2,1,3) vel(-2.5,-10.7,13.2) mass(83)
+
+Simulation 4 escaped
+Body 0: pos(1,-4,-1) vel(0.1,13.9,-5.9) mass(79)
+Body 1: pos(-5,-4,-1) vel(-10,-10.1,5.8) mass(184)
+Body 2: pos(-4,3,3) vel(-13.5,4.5,-5.8) mass(73)
+
+Simulation 4 escaped
+Body 0: pos(0,-3,-5) vel(1,6.1,-4.9) mass(176)
+Body 1: pos(-1,1,3) vel(-13.9,-9.3,8.7) mass(182)
+Body 2: pos(-1,-2,4) vel(5.1,10.7,1.3) mass(163)
+
+Simulation 3 escaped
+Body 0: pos(-5,-2,0) vel(-1.2,0.2,-6.3) mass(31)
+Body 1: pos(0,3,-2) vel(-6.9,-12.8,-14.9) mass(25)
+Body 2: pos(-1,4,1) vel(-1.5,-8.9,2.9) mass(180)
+
+Simulation 4 escaped
+Body 0: pos(1,-5,-2) vel(-2.3,12.2,-4.9) mass(24)
+Body 1: pos(0,3,4) vel(0.8,-4.3,-8.4) mass(142)
+Body 2: pos(-1,3,4) vel(-0.7,-14.6,6.4) mass(200)
+
+Simulation 0 escaped
+Body 0: pos(-4,2,0) vel(-14.7,5.1,0.8) mass(101)
+Body 1: pos(2,2,0) vel(-7,-6.3,-11.6) mass(86)
+Body 2: pos(2,-3,4) vel(2.5,-5.5,11.5) mass(33)
+
+Simulation 6 escaped
+Body 0: pos(-1,-3,-1) vel(11.1,11.2,1.3) mass(138)
+Body 1: pos(-1,0,-3) vel(8.7,-13.4,0.8) mass(61)
+Body 2: pos(2,0,0) vel(6.8,14.7,6) mass(110)
+
+Simulation 2 escaped
+Body 0: pos(4,-4,3) vel(10.3,-3.2,-2.6) mass(67)
+Body 1: pos(2,1,-5) vel(-7.6,-7.2,-0.8) mass(111)
+Body 2: pos(0,2,0) vel(6.1,11.1,8.2) mass(1)
+
+Simulation 4 escaped
+Body 0: pos(3,-5,4) vel(6.7,7.5,-0.9) mass(79)
+Body 1: pos(0,-5,-3) vel(-4.8,11,-11.7) mass(55)
+Body 2: pos(-4,-2,4) vel(-6.9,8.9,2.8) mass(133)
+
+Simulation 7 escaped
+Body 0: pos(-1,0,-5) vel(7.6,11.6,-12.9) mass(144)
+Body 1: pos(-2,3,4) vel(7.4,-5,-6.7) mass(26)
+Body 2: pos(-1,-2,1) vel(-6.4,0.4,-10.4) mass(81)
+
+Simulation 6 escaped
+Body 0: pos(0,1,0) vel(-2,4,4.1) mass(90)
+Body 1: pos(-3,-1,0) vel(3,-5.5,-0.6) mass(132)
+Body 2: pos(2,-3,-5) vel(-2.8,-9.9,-14.5) mass(45)
+
+Simulation 5 escaped
+Body 0: pos(0,-4,1) vel(-14.8,-14.7,4.4) mass(67)
+Body 1: pos(-2,2,-4) vel(12.4,-10.6,5.1) mass(106)
+Body 2: pos(-4,-4,1) vel(-5.3,7.9,7.5) mass(136)
+
+Simulation 5 escaped
+Body 0: pos(-2,0,-4) vel(8.6,-8.3,7) mass(197)
+Body 1: pos(3,4,-4) vel(-8.3,13,3.5) mass(56)
+Body 2: pos(-1,0,-5) vel(14,-11.4,8.3) mass(181)
+
+Simulation 4 escaped
+Body 0: pos(0,1,-2) vel(1.1,13.6,-2.6) mass(25)
+Body 1: pos(2,-2,1) vel(4.6,-14.8,-9) mass(194)
+Body 2: pos(4,-1,1) vel(-3.1,-9.5,7.1) mass(105)
+
+Simulation 7 escaped
+Body 0: pos(-5,1,-1) vel(-14.7,4,-11.7) mass(200)
+Body 1: pos(2,2,-2) vel(1.5,-10.3,-3.5) mass(111)
+Body 2: pos(-1,-5,-2) vel(2.5,-13.3,-7.7) mass(35)
+
+Simulation 4 escaped
+Body 0: pos(-4,-1,-4) vel(-1.9,-9.5,3.9) mass(168)
+Body 1: pos(0,-1,-1) vel(-9.3,-2.4,-13.8) mass(54)
+Body 2: pos(-2,0,2) vel(-1.1,-15,-0.6) mass(174)
+
+Simulation 6 escaped
+Body 0: pos(1,-5,3) vel(-1.4,0.6,-3.6) mass(42)
+Body 1: pos(-2,2,-1) vel(-2.2,-3.3,7.7) mass(55)
+Body 2: pos(-3,1,3) vel(-4.3,-12.7,4.4) mass(145)
+
+Simulation 4 escaped
+Body 0: pos(-5,1,2) vel(-2.4,-7.2,-11.2) mass(182)
+Body 1: pos(-3,-1,-2) vel(2.9,0.2,-5.4) mass(149)
+Body 2: pos(1,0,-4) vel(9.5,5.2,6.2) mass(116)
+
+Simulation 9 escaped
+Body 0: pos(4,0,3) vel(11.5,11.8,13.1) mass(92)
+Body 1: pos(-3,-3,-3) vel(10.4,-1.4,2.7) mass(110)
+Body 2: pos(0,4,-3) vel(-12.3,-3.3,4.6) mass(132)
+
+Simulation 0 escaped
+Body 0: pos(-4,4,-3) vel(14.7,13.4,6.5) mass(7)
+Body 1: pos(0,-2,-1) vel(-8.5,1.7,0) mass(149)
+Body 2: pos(1,3,-3) vel(9.7,-4.7,2.1) mass(121)
+
+Simulation 9 escaped
+Body 0: pos(-5,2,-5) vel(-8.2,-6.3,12.4) mass(97)
+Body 1: pos(2,4,3) vel(10.8,7,7.9) mass(181)
+Body 2: pos(1,-4,-5) vel(-13.6,8.3,-11.7) mass(127)
+
+Simulation 4 escaped
+Body 0: pos(3,-1,4) vel(1.7,-13.9,-0.7) mass(142)
+Body 1: pos(-3,-3,0) vel(-11,2.7,-4.3) mass(10)
+Body 2: pos(-4,3,2) vel(4.7,7.6,-14.9) mass(116)
+
+Simulation 7 escaped
+Body 0: pos(-1,-5,-5) vel(-1.3,5.9,-12.3) mass(137)
+Body 1: pos(-2,0,3) vel(9.3,10.3,3.1) mass(38)
+Body 2: pos(-3,1,-4) vel(1.9,-13.1,5.1) mass(117)
+
+Simulation 7 escaped
+Body 0: pos(-3,3,-2) vel(11.2,7,5.6) mass(7)
+Body 1: pos(-4,3,3) vel(1.6,1.7,-11.7) mass(87)
+Body 2: pos(-5,0,3) vel(-9.9,1.6,-12.1) mass(34)
+
+Simulation 4 escaped
+Body 0: pos(4,3,1) vel(-13.6,2.7,12.5) mass(200)
+Body 1: pos(-4,-5,0) vel(1,-11.6,-9) mass(92)
+Body 2: pos(-4,1,-2) vel(2.2,7.1,-14.9) mass(158)
+
+Simulation 4 escaped
+Body 0: pos(1,2,-4) vel(-4.1,-5.6,-13.6) mass(69)
+Body 1: pos(-3,2,4) vel(-3.3,-13.1,9.6) mass(167)
+Body 2: pos(-5,-1,1) vel(4.6,-12.8,10.8) mass(70)
+
+Simulation 4 escaped
+Body 0: pos(2,-4,3) vel(-6.3,4.2,11.8) mass(102)
+Body 1: pos(2,-4,0) vel(-7.6,-2.9,-11.6) mass(164)
+Body 2: pos(1,-5,2) vel(-13.9,-14.4,6.3) mass(130)
+
+Simulation 9 escaped
+Body 0: pos(1,-2,-3) vel(3.1,0.5,-7) mass(145)
+Body 1: pos(-1,1,-2) vel(-8.7,13,-10.7) mass(29)
+Body 2: pos(4,1,-2) vel(5,-5.2,-6.3) mass(196)
+
+Simulation 6 escaped
+Body 0: pos(0,0,-3) vel(-3.5,9.1,-15) mass(28)
+Body 1: pos(1,-1,-2) vel(-2.3,-4.9,-3.1) mass(179)
+Body 2: pos(-2,-4,-2) vel(10.5,9.8,-3.7) mass(118)
+
+Simulation 2 escaped
+Body 0: pos(-4,2,-1) vel(-2,-3.3,4.7) mass(90)
+Body 1: pos(-2,-2,3) vel(11.2,-5.5,-12.9) mass(131)
+Body 2: pos(-2,4,4) vel(-0.3,12.1,-10.2) mass(144)
+
+Simulation 0 escaped
+Body 0: pos(-3,-1,3) vel(13.3,-11.9,-3.2) mass(188)
+Body 1: pos(4,-5,-2) vel(8.4,1.9,2) mass(93)
+Body 2: pos(-1,-4,3) vel(2.6,2.2,-11.8) mass(77)
+
+Simulation 9 escaped
+Body 0: pos(-1,1,0) vel(12.2,3.6,1.3) mass(21)
+Body 1: pos(1,-1,-5) vel(14.2,-13.9,-12.2) mass(60)
+Body 2: pos(2,1,-1) vel(14.1,3,-7.5) mass(141)
+
+Simulation 4 escaped
+Body 0: pos(0,-5,-2) vel(-12.6,-7.8,-4.6) mass(12)
+Body 1: pos(1,2,1) vel(9.4,-10.2,11.8) mass(23)
+Body 2: pos(-5,-2,-4) vel(1.8,-0.9,-11.6) mass(17)
+
+Simulation 3 escaped
+Body 0: pos(4,4,-2) vel(12.5,-4.1,6.8) mass(47)
+Body 1: pos(4,-1,-3) vel(14.6,11.4,3.8) mass(9)
+Body 2: pos(-1,-1,-4) vel(-7.1,3.5,-6.2) mass(52)
+
+Simulation 7 escaped
+Body 0: pos(4,4,1) vel(0.4,11.9,-4) mass(34)
+Body 1: pos(-1,4,-1) vel(-12,10,4.8) mass(90)
+Body 2: pos(1,3,-4) vel(-1,1.8,8.3) mass(33)
+
+Simulation 8 escaped
+Body 0: pos(-5,3,-5) vel(-5,-13.6,-0.2) mass(100)
+Body 1: pos(3,4,4) vel(-10,-5.8,7.3) mass(65)
+Body 2: pos(-3,-5,0) vel(-14.6,13.6,0.4) mass(103)
+
+Simulation 3 escaped
+Body 0: pos(0,3,4) vel(-10,-2.1,-5.1) mass(14)
+Body 1: pos(-2,3,-3) vel(-6.9,12.4,8.2) mass(57)
+Body 2: pos(-1,0,4) vel(-11.4,14.6,-6.2) mass(88)
+
+Simulation 7 escaped
+Body 0: pos(-4,-2,3) vel(-4.1,-2.5,6.5) mass(193)
+Body 1: pos(-1,4,0) vel(-6.2,-11.2,14.7) mass(8)
+Body 2: pos(-2,1,0) vel(3.5,6,-2.2) mass(29)
+
+Simulation 5 escaped
+Body 0: pos(-2,4,-5) vel(-1.5,-4.6,14.2) mass(16)
+Body 1: pos(-4,-3,-3) vel(7.6,11.7,-11.8) mass(79)
+Body 2: pos(0,-4,1) vel(5.1,0.7,-3) mass(129)
+
+Simulation 8 escaped
+Body 0: pos(-4,0,2) vel(10.7,-13.3,-1.5) mass(99)
+Body 1: pos(2,3,-4) vel(5.1,-7.2,9.2) mass(30)
+Body 2: pos(-5,0,-1) vel(5.8,-5.2,13.1) mass(82)
+
+Simulation 5 escaped
+Body 0: pos(1,1,2) vel(1.9,-9.7,3.4) mass(2)
+Body 1: pos(-4,2,4) vel(-3.2,-8,-5.8) mass(164)
+Body 2: pos(-3,0,0) vel(-2.3,5.4,12.5) mass(136)
+
+Simulation 5 escaped
+Body 0: pos(3,0,-1) vel(6.2,2.5,-3.2) mass(51)
+Body 1: pos(-2,4,0) vel(3.8,-2.1,4.5) mass(26)
+Body 2: pos(-4,-5,1) vel(11.9,6.7,-5.2) mass(71)
+
+Simulation 0 escaped
+Body 0: pos(4,-5,-2) vel(6.7,0,-7.1) mass(31)
+Body 1: pos(1,0,2) vel(-10.6,0.6,-10) mass(13)
+Body 2: pos(-2,-1,-3) vel(-5,-7.2,-4.4) mass(7)
+
+Simulation 8 escaped
+Body 0: pos(-5,-4,-1) vel(8.1,-4.9,6.2) mass(146)
+Body 1: pos(-5,0,-4) vel(5.7,10.2,6.4) mass(168)
+Body 2: pos(0,2,-3) vel(-6,-14.8,0.3) mass(30)
+
+Simulation 9 escaped
+Body 0: pos(4,2,1) vel(-4.9,12.3,-0.4) mass(193)
+Body 1: pos(-5,-3,-5) vel(-0.9,-14.8,-6.2) mass(181)
+Body 2: pos(4,0,4) vel(7.4,6.7,-8.7) mass(160)
+
+Simulation 0 escaped
+Body 0: pos(3,-5,2) vel(-3.9,-8.3,-2.1) mass(5)
+Body 1: pos(-3,-5,-3) vel(2.7,13.4,-9.9) mass(116)
+Body 2: pos(4,4,-5) vel(-2.6,-14.2,-8.7) mass(87)
+
+Simulation 8 escaped
+Body 0: pos(-3,1,1) vel(2.7,11.5,9.8) mass(14)
+Body 1: pos(-2,-4,1) vel(-4.4,-10.3,-4) mass(28)
+Body 2: pos(4,2,-2) vel(5.1,10.2,-5.5) mass(1)
+
+Simulation 4 escaped
+Body 0: pos(2,1,2) vel(4.9,-11.3,0.9) mass(141)
+Body 1: pos(-1,4,0) vel(-6.7,14.1,-1.3) mass(99)
+Body 2: pos(-5,-4,2) vel(2.1,8.2,-8.5) mass(58)
+
+Simulation 5 escaped
+Body 0: pos(0,4,-3) vel(-10.6,-7.9,1) mass(64)
+Body 1: pos(-3,-4,-2) vel(1.1,-8.5,14) mass(150)
+Body 2: pos(0,4,4) vel(-3,1,6.2) mass(191)
+
+Simulation 8 escaped
+Body 0: pos(3,4,1) vel(-7.5,2.3,10.6) mass(141)
+Body 1: pos(0,1,3) vel(-8.9,2.2,-1.8) mass(109)
+Body 2: pos(0,4,4) vel(-1.8,2.2,-3.2) mass(197)
+
+Simulation 4 escaped
+Body 0: pos(-1,2,-2) vel(5.6,-0.9,-0.7) mass(147)
+Body 1: pos(-4,3,-2) vel(8.7,-7.4,-3.6) mass(174)
+Body 2: pos(0,-1,3) vel(-9.5,-14.9,-3.6) mass(23)
+
+Simulation 4 escaped
+Body 0: pos(4,-4,0) vel(14,4.9,5.5) mass(36)
+Body 1: pos(-5,4,-3) vel(-13.3,-7.3,-5.6) mass(37)
+Body 2: pos(4,-4,-1) vel(1.3,12.9,13.7) mass(125)
+
+Simulation 8 escaped
+Body 0: pos(-1,0,-4) vel(12.8,-1.4,13.6) mass(59)
+Body 1: pos(-5,4,1) vel(-12.2,13.6,8.8) mass(141)
+Body 2: pos(-2,1,-1) vel(-3.9,0.5,3.6) mass(109)
+
+Simulation 8 escaped
+Body 0: pos(4,1,0) vel(9,-11.3,1.8) mass(179)
+Body 1: pos(-3,4,-1) vel(-6.4,-0.9,6.1) mass(90)
+Body 2: pos(1,2,1) vel(9.3,-15,1) mass(157)
+
+Simulation 5 escaped
+Body 0: pos(-1,2,4) vel(-3.3,-9.6,7.1) mass(120)
+Body 1: pos(0,0,-1) vel(5.7,6.2,-10.2) mass(102)
+Body 2: pos(-4,3,2) vel(5.6,4.7,-15) mass(49)
+
+Simulation 0 escaped
+Body 0: pos(-3,1,-2) vel(14.1,-0.4,6.8) mass(37)
+Body 1: pos(4,1,-3) vel(4,10,-13.7) mass(174)
+Body 2: pos(-1,-5,1) vel(-6.9,-11.8,-4.3) mass(36)
+
+Simulation 4 escaped
+Body 0: pos(-2,0,1) vel(6.4,7.2,-8.8) mass(22)
+Body 1: pos(-5,0,-2) vel(-6.3,12.4,-14.2) mass(58)
+Body 2: pos(1,-4,2) vel(11.9,-12.1,-1) mass(75)
+
+Simulation 6 escaped
+Body 0: pos(-4,-2,0) vel(0.3,-5.7,11) mass(51)
+Body 1: pos(4,3,1) vel(6.4,-4.6,-3.7) mass(118)
+Body 2: pos(1,-4,-5) vel(12.5,-10.7,9.9) mass(1)
+
+Simulation 8 escaped
+Body 0: pos(3,-2,1) vel(3.3,10.7,-2.3) mass(6)
+Body 1: pos(4,2,2) vel(4.8,11.7,0.2) mass(52)
+Body 2: pos(-2,-3,0) vel(-0.8,5.4,-12.7) mass(118)
+
+Simulation 8 escaped
+Body 0: pos(3,-1,3) vel(-1.4,-0.6,-1.4) mass(7)
+Body 1: pos(3,-3,-2) vel(-7.5,-1.5,-0.5) mass(180)
+Body 2: pos(2,-3,-3) vel(-13.9,-6.4,5.7) mass(167)
+
+Simulation 9 escaped
+Body 0: pos(-2,4,-1) vel(0,10.4,9.1) mass(164)
+Body 1: pos(0,-5,-4) vel(9.1,1.3,2.2) mass(19)
+Body 2: pos(3,3,1) vel(-1.2,5.6,-7.5) mass(34)
+
+Simulation 4 escaped
+Body 0: pos(2,1,-2) vel(3.9,-8,2.1) mass(79)
+Body 1: pos(0,3,-3) vel(0.4,-8.6,-1.7) mass(42)
+Body 2: pos(0,-3,3) vel(2.8,13,-3.5) mass(136)
+
+Simulation 9 escaped
+Body 0: pos(-3,3,-1) vel(-9.4,-2.7,-14) mass(193)
+Body 1: pos(0,-4,0) vel(5.6,-4.7,-7.6) mass(116)
+Body 2: pos(2,0,-1) vel(-10.2,-11.3,-3.1) mass(178)
+
+Simulation 1 escaped
+Body 0: pos(4,3,-3) vel(3.1,-1.1,3) mass(25)
+Body 1: pos(-5,4,0) vel(-0.7,-9.1,0.4) mass(123)
+Body 2: pos(-4,3,1) vel(-11.1,14.6,0.8) mass(5)
+
+Simulation 9 escaped
+Body 0: pos(-5,-4,0) vel(-13,5.6,11) mass(27)
+Body 1: pos(4,-5,-4) vel(8,12,-14.5) mass(35)
+Body 2: pos(-4,-4,-3) vel(-11.8,-9.2,-0.5) mass(183)
+
+Simulation 8 escaped
+Body 0: pos(-4,-1,2) vel(12,8.2,12.4) mass(171)
+Body 1: pos(4,0,-5) vel(-9.7,10.8,-12.3) mass(154)
+Body 2: pos(-2,4,-2) vel(8.9,-13.4,-9.4) mass(121)
+
+Simulation 9 escaped
+Body 0: pos(-1,2,-5) vel(-7.3,-0.5,-1.2) mass(181)
+Body 1: pos(1,4,-3) vel(-4.3,9.5,-3.5) mass(180)
+Body 2: pos(0,2,-1) vel(14,-5.3,6.5) mass(61)
+
+Simulation 9 escaped
+Body 0: pos(0,4,-2) vel(12.7,1.7,-10.2) mass(94)
+Body 1: pos(-1,2,2) vel(2.5,-5,1.5) mass(124)
+Body 2: pos(-1,3,-3) vel(-10.4,-3.4,-0.5) mass(41)
+
+Simulation 9 escaped
+Body 0: pos(1,4,-2) vel(13.2,-10.8,-10.8) mass(116)
+Body 1: pos(2,-4,0) vel(11.8,14.4,-2.9) mass(83)
+Body 2: pos(4,3,-1) vel(-14.7,2.9,-13) mass(91)
+
+Simulation 0 escaped
+Body 0: pos(3,-3,3) vel(-0.6,12.5,-10.2) mass(165)
+Body 1: pos(-2,-4,1) vel(1.4,-2.1,-14.6) mass(30)
+Body 2: pos(-5,-5,3) vel(8.7,2.6,-1.4) mass(74)
+
+Simulation 5 escaped
+Body 0: pos(4,2,3) vel(2.6,1.9,-6.9) mass(121)
+Body 1: pos(1,-1,3) vel(-9.2,-10.2,9.3) mass(22)
+Body 2: pos(-3,3,-1) vel(11.9,-1.5,-8.6) mass(4)
+
+Simulation 4 escaped
+Body 0: pos(3,3,0) vel(2.6,-5,-6.4) mass(49)
+Body 1: pos(-2,0,3) vel(-2.1,14.9,-7.7) mass(40)
+Body 2: pos(-3,1,4) vel(10.6,9,14.6) mass(73)
+
+Simulation 8 escaped
+Body 0: pos(-4,-1,-4) vel(0.1,11.6,-10.9) mass(156)
+Body 1: pos(1,-5,4) vel(9.6,-3.1,12) mass(6)
+Body 2: pos(2,0,-3) vel(5.6,-14.8,6.3) mass(117)
+
+Simulation 4 escaped
+Body 0: pos(-2,1,-1) vel(6.8,-3.7,2) mass(30)
+Body 1: pos(-1,2,4) vel(6.7,-10.2,1.1) mass(196)
+Body 2: pos(-4,2,-1) vel(-0.6,-3.5,-6.7) mass(145)
+
+Simulation 5 escaped
+Body 0: pos(-2,4,2) vel(2.7,-6.2,5.1) mass(76)
+Body 1: pos(-5,3,-5) vel(14.1,10.4,-3.5) mass(145)
+Body 2: pos(-3,-4,-5) vel(-13.2,-12.3,-9.9) mass(74)
+
+Simulation 0 escaped
+Body 0: pos(-5,3,-1) vel(4.2,9.2,-13) mass(81)
+Body 1: pos(0,0,3) vel(-5.5,12.3,2.1) mass(9)
+Body 2: pos(-2,4,1) vel(-5.9,-8.3,10.7) mass(123)
+
+Simulation 8 escaped
+Body 0: pos(-2,0,2) vel(2.5,-13.9,-6.7) mass(59)
+Body 1: pos(2,-4,-1) vel(-10.6,-13.8,-3.4) mass(49)
+Body 2: pos(-3,-2,-2) vel(-3.4,-3.8,8.8) mass(120)
+
+Simulation 7 escaped
+Body 0: pos(0,-2,1) vel(-12.7,-11.2,-4.6) mass(39)
+Body 1: pos(3,-5,0) vel(-7.7,1.1,10.4) mass(90)
+Body 2: pos(-4,0,-2) vel(-8.8,-5.5,-7.8) mass(93)
+
+Simulation 8 escaped
+Body 0: pos(1,-4,-2) vel(-0.2,-7.5,-7.3) mass(183)
+Body 1: pos(0,2,-2) vel(0.1,7.6,3.3) mass(97)
+Body 2: pos(1,-1,2) vel(12,11,2.7) mass(108)
+
+Simulation 0 escaped
+Body 0: pos(4,-2,0) vel(-13.6,-3.8,-1.5) mass(35)
+Body 1: pos(2,0,-1) vel(-4,-1.5,0) mass(13)
+Body 2: pos(0,-2,3) vel(2.5,11.5,10.1) mass(157)
+
+Simulation 7 escaped
+Body 0: pos(-1,1,3) vel(2.6,-12,14.6) mass(86)
+Body 1: pos(-4,4,1) vel(3.4,11.9,13) mass(33)
+Body 2: pos(-1,-2,-5) vel(-13.7,3.9,-6.7) mass(92)
+
+Simulation 5 escaped
+Body 0: pos(2,-4,-4) vel(11.7,6.4,-6) mass(99)
+Body 1: pos(-1,4,-3) vel(-4.3,-13.4,-14.9) mass(142)
+Body 2: pos(2,-5,3) vel(6.8,4.7,-7.3) mass(138)
+
+Simulation 0 escaped
+Body 0: pos(2,-2,-5) vel(11.6,-3.4,3.5) mass(18)
+Body 1: pos(-2,-4,3) vel(11.4,-11.4,3.4) mass(108)
+Body 2: pos(-5,-2,-1) vel(3.9,-0.1,5.8) mass(99)
+
+Simulation 9 escaped
+Body 0: pos(-4,3,-5) vel(-3.3,-11.8,-12.6) mass(115)
+Body 1: pos(2,0,4) vel(-12.9,12.7,-1.1) mass(98)
+Body 2: pos(-5,4,1) vel(10.7,11.1,-3.7) mass(199)
+
+Simulation 0 escaped
+Body 0: pos(3,-2,-4) vel(-14.6,-7.8,6.7) mass(149)
+Body 1: pos(1,4,2) vel(11.3,12.3,-9.5) mass(101)
+Body 2: pos(-2,-3,2) vel(-13.5,-11.5,9.7) mass(6)
+
+Simulation 6 escaped
+Body 0: pos(-4,3,3) vel(6.4,10.4,2.5) mass(20)
+Body 1: pos(2,-4,0) vel(10,12,-6.2) mass(110)
+Body 2: pos(-3,4,-3) vel(-2.7,12.5,12.8) mass(129)
+
+Simulation 0 escaped
+Body 0: pos(4,3,3) vel(-11.5,14.9,-11.1) mass(11)
+Body 1: pos(-1,-2,-3) vel(-3.8,-12.9,-4.5) mass(131)
+Body 2: pos(-4,0,0) vel(-4.5,-11.5,-8.2) mass(119)
+
+Simulation 6 escaped
+Body 0: pos(-2,2,-3) vel(2.8,-5,-2.1) mass(132)
+Body 1: pos(-2,-2,4) vel(10.5,10.8,-10) mass(162)
+Body 2: pos(0,1,1) vel(-7.3,-1.7,1.9) mass(183)
+
+Simulation 5 escaped
+Body 0: pos(-2,-4,0) vel(-14,-8.3,9.5) mass(188)
+Body 1: pos(-4,-1,2) vel(-2.7,-7.1,14.4) mass(58)
+Body 2: pos(-5,1,2) vel(8.9,-7.6,-6.1) mass(187)
+
+Simulation 5 escaped
+Body 0: pos(-4,0,1) vel(7.3,-12.2,-6.3) mass(51)
+Body 1: pos(-4,-2,3) vel(10.3,1.3,3.6) mass(166)
+Body 2: pos(-2,1,3) vel(-10.5,-10.1,5.9) mass(134)
+
+Simulation 8 escaped
+Body 0: pos(-2,-4,4) vel(0,-3.4,12.4) mass(34)
+Body 1: pos(-5,-4,0) vel(0.4,-3.4,1.4) mass(180)
+Body 2: pos(-4,0,-3) vel(10,-2.4,2.6) mass(74)
+
+Simulation 4 escaped
+Body 0: pos(3,3,-3) vel(2.3,-6,0.2) mass(75)
+Body 1: pos(-1,3,0) vel(3.7,-0.4,4.2) mass(93)
+Body 2: pos(4,3,-1) vel(2.3,5.3,-5.4) mass(67)
+
+Simulation 1 escaped
+Body 0: pos(-1,-2,-3) vel(-14.4,12.7,12.3) mass(159)
+Body 1: pos(-4,0,-4) vel(3.2,6.5,10.7) mass(61)
+Body 2: pos(1,2,-5) vel(14.9,14.7,8.6) mass(16)
+
+Simulation 0 escaped
+Body 0: pos(2,2,3) vel(0.7,9.5,-1) mass(4)
+Body 1: pos(0,3,1) vel(-8.2,-6.5,6.9) mass(191)
+Body 2: pos(3,4,0) vel(4.9,-11.3,-5.8) mass(64)
+
+Simulation 6 escaped
+Body 0: pos(0,2,0) vel(0.2,-3,6.5) mass(145)
+Body 1: pos(0,4,-2) vel(12.5,-12.5,-7) mass(62)
+Body 2: pos(4,-4,2) vel(8.2,-11.1,14.4) mass(26)
+
+Simulation 0 escaped
+Body 0: pos(-5,4,-1) vel(9,-8.9,6.5) mass(125)
+Body 1: pos(4,-4,1) vel(-9.7,4.8,-8.1) mass(159)
+Body 2: pos(-3,1,-3) vel(12.8,-2.3,7.4) mass(76)
+
+Simulation 0 escaped
+Body 0: pos(3,3,-2) vel(6.1,7.1,14.3) mass(165)
+Body 1: pos(0,-5,4) vel(5.7,7.8,-5.6) mass(122)
+Body 2: pos(1,4,2) vel(13.8,-0.9,9.3) mass(140)
+
+Simulation 5 escaped
+Body 0: pos(2,-3,-4) vel(11.8,8.1,13.7) mass(137)
+Body 1: pos(0,2,-5) vel(5,-10,11.5) mass(126)
+Body 2: pos(0,1,0) vel(-3,-14.9,-4) mass(74)
+
+Simulation 8 escaped
+Body 0: pos(-1,-4,1) vel(0.7,3.4,-3.5) mass(160)
+Body 1: pos(-4,-5,-1) vel(8.5,-12.7,-0.1) mass(200)
+Body 2: pos(-1,-3,-3) vel(9.8,14.5,-2.1) mass(165)
+
+Simulation 5 escaped
+Body 0: pos(0,-5,4) vel(-9.9,3.3,6.8) mass(12)
+Body 1: pos(1,-4,4) vel(-3.6,-9.9,-2.5) mass(180)
+Body 2: pos(-1,-5,-3) vel(14,11.5,-13.9) mass(14)
+
+Simulation 9 escaped
+Body 0: pos(-2,-4,-2) vel(2.3,-9.8,3.3) mass(26)
+Body 1: pos(0,1,4) vel(6.5,-14.7,-4.9) mass(55)
+Body 2: pos(-5,4,-4) vel(-10.8,-8.3,10.7) mass(142)
+
+Simulation 2 escaped
+Body 0: pos(3,4,3) vel(-7.3,12.4,-12.8) mass(102)
+Body 1: pos(1,3,0) vel(-9.4,-6.2,5.6) mass(26)
+Body 2: pos(-3,4,4) vel(-7.2,3.3,-13.4) mass(88)
+
+Simulation 8 escaped
+Body 0: pos(3,2,-1) vel(-14.5,9.8,14.7) mass(156)
+Body 1: pos(1,0,0) vel(12.2,5.1,-14.2) mass(93)
+Body 2: pos(1,3,-4) vel(-9.7,12.5,2) mass(143)
+
+Simulation 1 escaped
+Body 0: pos(0,4,2) vel(4.1,-4.7,14.4) mass(72)
+Body 1: pos(-3,-3,-5) vel(0.8,-12.8,8.6) mass(63)
+Body 2: pos(0,-4,2) vel(-7.8,-6.6,-3.1) mass(48)
+
+Simulation 4 escaped
+Body 0: pos(4,1,-2) vel(-13.6,10.5,-1.4) mass(108)
+Body 1: pos(-3,4,4) vel(-9.4,3,9.7) mass(137)
+Body 2: pos(2,1,1) vel(2.5,-10.9,2.6) mass(4)
+
+Simulation 1 escaped
+Body 0: pos(2,-2,-1) vel(-2.5,11.4,9.8) mass(19)
+Body 1: pos(-5,-4,-5) vel(-10.9,-12.8,-8.5) mass(167)
+Body 2: pos(0,-1,-5) vel(-0.3,-11.9,-11.2) mass(92)
+
+Simulation 8 escaped
+Body 0: pos(-5,-4,-5) vel(13.4,-12.5,13.9) mass(110)
+Body 1: pos(-4,2,-3) vel(6.8,-4.8,12.2) mass(9)
+Body 2: pos(-1,-3,2) vel(5.7,-0.7,-13.8) mass(107)
+
+Simulation 7 escaped
+Body 0: pos(4,1,-2) vel(11,-5.7,-2.6) mass(131)
+Body 1: pos(3,0,-1) vel(-15,-7.8,4.2) mass(148)
+Body 2: pos(-5,4,2) vel(7.3,-9.7,3.3) mass(41)
+
+Simulation 9 escaped
+Body 0: pos(-2,4,0) vel(-8.9,-12.4,-10.9) mass(143)
+Body 1: pos(-4,4,1) vel(12.6,0.2,-9.6) mass(37)
+Body 2: pos(1,-5,-4) vel(-4.9,12.4,4.9) mass(61)
+
+Simulation 7 escaped
+Body 0: pos(4,-1,-2) vel(4.1,0.4,-12.5) mass(7)
+Body 1: pos(1,2,-3) vel(11,-2.4,-8) mass(66)
+Body 2: pos(-4,-3,1) vel(-3.7,2.8,14.9) mass(108)
+
+Simulation 2 escaped
+Body 0: pos(1,0,1) vel(9.2,-11.3,-14.8) mass(119)
+Body 1: pos(3,3,-4) vel(7.5,-2.4,10.6) mass(26)
+Body 2: pos(-1,4,2) vel(14.1,13,-7) mass(130)
+
+Simulation 9 escaped
+Body 0: pos(-4,0,-1) vel(-13.7,-5.4,2.5) mass(124)
+Body 1: pos(3,-4,1) vel(12,12,-9.3) mass(25)
+Body 2: pos(2,-2,-5) vel(-13.6,11.1,14.3) mass(68)
+
+Simulation 9 escaped
+Body 0: pos(0,-1,-4) vel(5.9,-1,9) mass(196)
+Body 1: pos(0,2,1) vel(8,-0.5,1.5) mass(125)
+Body 2: pos(3,-3,-1) vel(4.2,4.4,2.8) mass(48)
+
+Simulation 9 escaped
+Body 0: pos(3,-2,-5) vel(-1.3,3.7,13.4) mass(135)
+Body 1: pos(4,-5,-5) vel(-5,-1.1,5.3) mass(161)
+Body 2: pos(2,-1,-1) vel(-4.3,6.2,-12.9) mass(132)
+
+Simulation 8 escaped
+Body 0: pos(4,3,4) vel(-10.4,8,-2.7) mass(28)
+Body 1: pos(4,0,-3) vel(7,0.8,-6.1) mass(144)
+Body 2: pos(-1,-5,3) vel(-6.4,-14.8,1.2) mass(43)
+
+Simulation 2 escaped
+Body 0: pos(-5,1,-2) vel(7.9,-6.7,-7.5) mass(123)
+Body 1: pos(-4,-1,-3) vel(11.5,10.6,-12.9) mass(88)
+Body 2: pos(2,-2,4) vel(6.5,14.7,10.7) mass(133)
+
+Simulation 8 escaped
+Body 0: pos(4,-2,-1) vel(-6.6,-7.6,4) mass(82)
+Body 1: pos(3,-2,0) vel(14.3,13.7,-13.3) mass(140)
+Body 2: pos(3,1,-4) vel(-1,7.5,-2.7) mass(193)
+
+Simulation 8 escaped
+Body 0: pos(-5,0,0) vel(-2.2,13.8,13.9) mass(148)
+Body 1: pos(-2,-1,3) vel(11.8,9.6,9.6) mass(91)
+Body 2: pos(-1,0,4) vel(6,-0.8,-4.2) mass(11)
+
+Simulation 2 escaped
+Body 0: pos(3,1,4) vel(-12.3,2.9,-11.8) mass(113)
+Body 1: pos(-3,4,0) vel(-9.2,-8.1,13.4) mass(104)
+Body 2: pos(-5,2,0) vel(12.8,-7.5,13.3) mass(184)
+
+Simulation 2 escaped
+Body 0: pos(0,-2,-4) vel(-12.9,2.4,-4.3) mass(115)
+Body 1: pos(-4,2,-4) vel(-7.9,2.4,0.9) mass(194)
+Body 2: pos(-3,-5,-4) vel(11.4,-1.5,2.3) mass(72)
+
+Simulation 2 escaped
+Body 0: pos(-1,0,2) vel(-13.9,8.2,5.1) mass(80)
+Body 1: pos(-2,2,-1) vel(5.1,5.5,5) mass(5)
+Body 2: pos(-3,2,1) vel(12.6,-10.8,11.2) mass(159)
+
+Simulation 3 escaped
+Body 0: pos(-4,2,-1) vel(-11.3,6,8.5) mass(134)
+Body 1: pos(-4,4,-4) vel(12.1,-10.5,2.8) mass(12)
+Body 2: pos(-3,3,3) vel(3.1,-7.2,9.6) mass(163)
+

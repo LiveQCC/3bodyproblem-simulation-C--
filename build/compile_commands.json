@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/orlando/projects/helloworld/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/hello_world.dir/includes_CXX.rsp -g -o CMakeFiles\\hello_world.dir\\src\\helloworld.cpp.obj -c C:\\Users\\orlando\\projects\\helloworld\\src\\helloworld.cpp",
+  "file": "C:/Users/orlando/projects/helloworld/src/helloworld.cpp",
+  "output": "CMakeFiles/hello_world.dir/src/helloworld.cpp.obj"
+},
+{
+  "directory": "C:/Users/orlando/projects/helloworld/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/hello_world.dir/includes_C.rsp -g -o CMakeFiles\\hello_world.dir\\src\\glad.c.obj -c C:\\Users\\orlando\\projects\\helloworld\\src\\glad.c",
+  "file": "C:/Users/orlando/projects/helloworld/src/glad.c",
+  "output": "CMakeFiles/hello_world.dir/src/glad.c.obj"
+}
+]

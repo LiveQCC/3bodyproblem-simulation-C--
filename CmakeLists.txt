@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.10)
+project(hello_world VERSION 1.0.0)
+find_package(openGL REQUIRED)
+
+add_executable(hello_world src/config.h src/helloworld.cpp src/glad.c)
+
+# 1. Setup Include Directories
+# This allows you to use #include <GLFW/glfw3.h> in your code
+target_include_directories(hello_world PRIVATE "${CMAKE_SOURCE_DIR}/dependencies")
+
+# 2. Link Libraries
+# We point directly to the .a file inside the "dependencies/lib-mingw-w64" folder.
+# We also add system libraries (opengl32, gdi32) that GLFW relies on.
+target_link_libraries(hello_world PRIVATE 
+    OpenGL::GL
+    "${CMAKE_SOURCE_DIR}/dependencies/lib-mingw-w64/libglfw3.a"
+    glu32
+)
