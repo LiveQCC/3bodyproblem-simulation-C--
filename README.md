@@ -6,13 +6,14 @@ our simulations are always faulty. Yet this is still an intresting simulation to
 
 Simulations rerun after a body is flung and the system becomes a dipole. 
 
-Coded in C++ 
+Coded in C++ (Eulers method) If you want RK4, do it yourself. 
 Libraries exist in a precompiled format inside the dependencies folder. However a C++ Compiler is needed (Done with a windows machine so dont ask me how)
 
 
 
 
 Gif showing 3 randomized bodies with random initial values traversing time and space. Triangle drawn where sides are distance between the bodies
+
 ![Visualiser](https://github.com/user-attachments/assets/73a3e209-5363-4cf5-ad80-1d6a23d38925)
 
 
